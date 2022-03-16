@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"OZ8",
+    "NAME1":"OZ8 Company",
+    "CNTRY":"AL",
+    "NAME2":"",
+    "LANGU":"E",
+    "STRET":"Albania",
+    "POBOX":"",
+    "PSTLC":"70121",
+    "CITY":"Durres",
+    "CURR":"",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
